@@ -1,4 +1,4 @@
-# 🚀 [Your Project Title Here]
+# Deepfake Detection for Criminal Investigations
 
 > ⚠️ **Replace everything in `[ ]` brackets with your actual content before submission.**
 
@@ -8,10 +8,10 @@
 
 | Field | Value |
 |---|---|
-| **Team Name** | [Your Team Name] |
-| **Track** | [AI / DevOps / Sustainability / Open] |
-| **Team Lead** | [Name] — [email@ibm.com] |
-| **Members** | [Name 1], [Name 2], [Name 3] |
+| **Team Name** | [FANCYBEAR_APT28] |
+| **Track** | [AI/ Open] |
+| **Team Lead** | [Swanuj Vadapalli] — [swanujv@gmail.com] |
+| **Members** | [Kanike Ram], [Regu Nitish Kumar] |
 
 ---
 
@@ -19,15 +19,17 @@
 
 > In 2–3 sentences: What problem does your project solve? Who experiences this problem?
 
-[Describe the real-world problem your project addresses. Be specific about who the user is and what pain point they face.]
-
+cyber cell investigation assistant that guides an officer through a structured deepfake analysis
+checklist (metadata inconsistencies, compression artifacts, facial landmark anomalies, audio-lip sync discrepancies).
+Bob documents findings, generates an evidence summary, maps the case to IT Act 2000 / BNS sections, and produces
+an internal investigation brief and a victim-facing reporting guide.
 ---
 
 ## 💡 Solution
 
 > In 2–3 sentences: What did you build? How does it solve the problem above?
 
-[Describe your solution clearly. Explain the core mechanism — what makes it work.]
+we made a website which will take the image, video or audio from the user and detects if it's a deepfake or not
 
 ---
 
@@ -45,8 +47,8 @@
 
 | Category | Technologies |
 |---|---|
-| **Languages** | [e.g., Python, TypeScript] |
-| **Frameworks** | [e.g., FastAPI, React] |
+| **Languages** | [Python, TypeScript] |
+| **Frameworks** | [ FastAPI, React] |
 | **IBM Technologies** | [e.g., watsonx.ai, IBM Bob, IBM Cloud] |
 | **Databases** | [e.g., PostgreSQL, Redis] |
 | **Other** | [e.g., Docker, GitHub Actions] |
